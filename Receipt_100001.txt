@@ -1,0 +1,17 @@
+Titus Grocery Store 
+(045) 123 4567
+
+Order Number: 100001
+Item                           Amount              
+Pringles                       400.0               
+  4pc x 100.0
+Lays                           150.0               
+Rice                           25.0                
+  0.5kg x 50.0
+Chicken                        450.0               
+  2.25kg x 200.0
+
+Total                          1025.0              
+
+Cashier: Cashier One
+Transaction Date: Thu Aug 01 17:16:18 SGT 2019
