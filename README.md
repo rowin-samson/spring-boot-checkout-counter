@@ -1,6 +1,6 @@
 # spring-boot-checkout-counter
 
-Thie application doesn't have any user interface it can be tested using JUnit.
+This application doesn't have any user interface it can be tested using JUnit.
 
 Please install lombok library to your IDE. You can download the jar file here https://projectlombok.org/download. Follow the steps below:
 1. Exit your IDE.
